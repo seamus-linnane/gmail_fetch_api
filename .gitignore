@@ -1,0 +1,16 @@
+# Sensitive Files
+credentials.json
+token.json
+
+# Python Compiled Files
+__pycache__/
+*.pyc
+
+# Log Files
+*.log
+
+# macOS Specific
+.DS_Store
+
+# Jupyter Notebook Checkpoints
+*.ipynb_checkpoints/
