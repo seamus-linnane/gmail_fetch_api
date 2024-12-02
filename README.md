@@ -16,7 +16,7 @@ This project extracts email data using the Gmail API and saves it into structure
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/seamus-linnane/gmail_fetch_api.git
 cd share
 ```
 
